@@ -5,18 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Setsuna arrives at The Grid
-datePublished: '2016-05-15T12:12:24.650Z'
-dateModified: '2016-05-15T12:12:15.741Z'
+datePublished: '2016-05-18T15:33:36.523Z'
+dateModified: '2016-05-18T15:33:19.266Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-setsuna-arrives-at-the-grid.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: null
+starred: true
 url: setsuna-arrives-at-the-grid/index.html
 _type: Article
 
