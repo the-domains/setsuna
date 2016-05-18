@@ -4,21 +4,21 @@
         <description><![CDATA[Setsuna]]></description>
         <link>https://thegrid.ai/setsuna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 12:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 15:33:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/setsuna/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Setsuna on The Grid]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e692f37e-53f2-4b02-a0c5-352ec33abd71.jpg">]]></description>
+            <link>https://thegrid.ai/setsuna/setsuna-arrives-at-the-grid/index.html</link>
+            <guid isPermaLink="false">d106429a-217e-4e1f-847a-6a8782c76ec8</guid>
+            <pubDate>Wed, 18 May 2016 15:33:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Check out our video!</p>]]></description>
             <link>https://thegrid.ai/setsuna/check-out-our-video/index.html</link>
             <guid isPermaLink="false">f5b82613-d599-4193-b9bf-38d4b578f73b</guid>
             <pubDate>Sun, 15 May 2016 12:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setsuna on The Grid]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e692f37e-53f2-4b02-a0c5-352ec33abd71.jpg">]]></description>
-            <link>https://thegrid.ai/setsuna/setsuna-arrives-at-the-grid/index.html</link>
-            <guid isPermaLink="false">d106429a-217e-4e1f-847a-6a8782c76ec8</guid>
-            <pubDate>Sun, 15 May 2016 12:12:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
