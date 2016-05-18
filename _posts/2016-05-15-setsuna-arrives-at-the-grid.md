@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Setsuna arrives at The Grid
-datePublished: '2016-05-18T15:34:08.142Z'
-dateModified: '2016-05-18T15:33:44.795Z'
+datePublished: '2016-05-18T15:49:15.958Z'
+dateModified: '2016-05-18T15:45:41.927Z'
 title: Setsuna Logo
 author:
   - name: ''
